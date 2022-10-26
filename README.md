@@ -25,6 +25,7 @@ pytest
     - Có nhiều method tính toán quantile, wiki liệt kê ra 9 định nghĩa
     - 3 method R1, R2, R3 có sự phân mảnh, không liên tục, dựa trên làm tròn dữ liệu.
     - 6 method R4-9 có sự liên tục, dưa trên hàm nội suy tuyến tính
-    - Quantile trong thư viện numpy chính là method R7
-    - P2 Algorithm cũng là method tính toán quantile, khác biệt là nó tiếp đi theo hướng tối ưu storing
-    - Đây là version đã đảm bảo yêu cầu đề bài, còn có thể cải tiến.  
+    - Quantile trong thư viện numpy implement method R7
+    - P2 Algorithm cũng là method tính toán quantile
+      khác biệt là nó tiếp đi theo hướng tối ưu storing
+    - Đây là version đáp ứng yêu cầu đề bài và còn nhiều vấn đề cải tiến.  
